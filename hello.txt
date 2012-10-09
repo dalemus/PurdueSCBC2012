@@ -1,2 +1,6 @@
 Hi Friends!!!
+<<<<<<< HEAD
 dlemus d-(' _')-b
+=======
+scopatz ;)
+>>>>>>> 2053fde7ae6130fbc0134da6b52cf105ec088907
